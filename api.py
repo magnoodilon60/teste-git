@@ -10,3 +10,4 @@ def ok(nome):
 
 app.run(host="0.0.0.0", port= 2000, debug= False)
 
+#teste feito seguindo o tutorial no youtube no canal do erikson bastos, obg por compartilhar o conhecimento
