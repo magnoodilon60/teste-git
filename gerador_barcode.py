@@ -1,6 +1,6 @@
 # requeriments
 #deve instalar o python-barcode
-#pip install python-barcode
+#pip install python-barcode[images]
 
 from barcode import Code128
 from barcode.writer import ImageWriter
